@@ -3456,7 +3456,7 @@ int style Base_Theme_MaterialComponents_Light_Dialog_Bridge 0x7f10006f
 int style Base_Theme_MaterialComponents_Light_Dialog_FixedSize 0x7f100070
 int style Base_Theme_MaterialComponents_Light_Dialog_MinWidth 0x7f100071
 int style Base_Theme_MaterialComponents_Light_DialogWhenLarge 0x7f100072
-int style Base_Theme_PackYourBag 0x7f100073
+int style Base_Theme_TravelAssistant 0x7f100073
 int style Base_ThemeOverlay_AppCompat 0x7f100074
 int style Base_ThemeOverlay_AppCompat_ActionBar 0x7f100075
 int style Base_ThemeOverlay_AppCompat_Dark 0x7f100076
@@ -3915,7 +3915,7 @@ int style Theme_MaterialComponents_Light_NoActionBar 0x7f10023a
 int style Theme_MaterialComponents_Light_NoActionBar_Bridge 0x7f10023b
 int style Theme_MaterialComponents_NoActionBar 0x7f10023c
 int style Theme_MaterialComponents_NoActionBar_Bridge 0x7f10023d
-int style Theme_PackYourBag 0x7f10023e
+int style Theme_TravelAssistant 0x7f10023e
 int style ThemeOverlay_AppCompat 0x7f10023f
 int style ThemeOverlay_AppCompat_ActionBar 0x7f100240
 int style ThemeOverlay_AppCompat_Dark 0x7f100241

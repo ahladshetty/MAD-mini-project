@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.packyourbag'
+    namespace 'com.example.travelassistant'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.packyourbag"
+        applicationId "com.example.travelassistant"
         minSdk 26
         targetSdk 33
         versionCode 1

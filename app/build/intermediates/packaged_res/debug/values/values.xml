@@ -7,12 +7,12 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">Pack Your Bag</string>
-    <style name="Base.Theme.PackYourBag" parent="Theme.Material3.DayNight.NoActionBar">
+    <string name="app_name">Travel Assistant</string>
+    <style name="Base.Theme.TravelAssistant" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style>
-    <style name="Theme.PackYourBag" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="Theme.TravelAssistant" parent="Theme.MaterialComponents.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

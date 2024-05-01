@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Base.Theme.PackYourBag" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.TravelAssistant" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style>
-    <style name="Theme.PackYourBag" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="Theme.TravelAssistant" parent="Theme.MaterialComponents.Light.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

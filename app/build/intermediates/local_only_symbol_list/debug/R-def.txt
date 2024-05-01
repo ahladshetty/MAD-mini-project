@@ -69,7 +69,7 @@ menu menu_one
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
-style Base.Theme.PackYourBag
-style Theme.PackYourBag
+style Base.Theme.TravelAssistant
+style Theme.TravelAssistant
 xml backup_rules
 xml data_extraction_rules
